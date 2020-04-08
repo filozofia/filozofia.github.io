@@ -4,4 +4,7 @@ layout: "default"
 #description: "filozófia"
 ---
 
-*filozófia*
+## területek
+
+- [arabisztika](/arabisztika)
+- [vallástudomány](/vallastudomany)
