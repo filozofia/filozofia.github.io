@@ -6,5 +6,5 @@ layout: "default"
 
 ## területek
 
-- [arabisztika](/arabisztika/)
+- [arabisztika](./arabisztika/index.md)
 - [vallástudomány](./vallastudomany/index.md)
